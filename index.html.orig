@@ -1,21 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Scratch That Itch</title>
+<<<<<<< HEAD
+  <title>Change on S-1 That I don't want</title>
 </head>
 <body>
-<<<<<<< HEAD
 <h1>Do Something Even More Silly</h1>
 <p>I don't like any merge tool, they all seem dumb</p>
 <p>Say something about cranberries</p>
 <p>Have a nice daybed</p>
 <script src="app.js"></script>
 =======
-<h1>Something Has Changed</h1>
+<!-- blah -->
+  <title>Scratch That Itch</title>
+</head>
+<body>
+<h1>This will be differnt and misspelled too</h1>
 <p>Don't forget to change your merge tool</p>
 <p>Say something about carbs</p>
 <p>Have a nice doughnut</p>
 <script src="capp.js"></script>
->>>>>>> master
+<p>I need something here too</p>
+>>>>>>> origin/master
 </body>
 </html>
